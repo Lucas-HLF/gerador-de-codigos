@@ -1,2 +1,2 @@
-# gerador_de_Senhas
-Gerar senhas aleatórias 
+# gerador_de_códigos
+Gere códigos aleátorios 
